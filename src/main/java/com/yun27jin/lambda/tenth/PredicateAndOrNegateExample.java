@@ -11,7 +11,7 @@ public class PredicateAndOrNegateExample {
         boolean result;
 
         predicateAB = predicateA.and(predicateB);
-        result = predicateAB.test(9);
+        result = predicateAB.test(0);
         System.out.println("9 는 2 와 3 의 배수입니까? " + result);
 
         predicateAB = predicateA.or(predicateB);
