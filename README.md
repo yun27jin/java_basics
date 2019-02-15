@@ -1,7 +1,12 @@
 # java_basics
 
-|               | 2st Week of February  | 3st Week Of March  |
-| ------------- |:---------------------:| ------------------:|
-| Java          |                       |                    |
-| Spring        |                       |                    |
-| Kafka         |                       |                    |
+| Month |        Week      |  Java  |  Spring  |  Kafka |  Cloud |
+|:-----:|:----------------:|:------:|:--------:|:------:|:------:|
+|  Feb  | 2st              |        |          |        |        |
+|       | 3st              |        |          |        |        |
+|       | 4st              |        |          |        |        |
+|  Mar  | 1st              |        |          |        |        |
+|       | 2st              |        |          |        |        |
+|       | 3st              |        |          |        |        |
+|       | 4st              |        |          |        |        |
+
